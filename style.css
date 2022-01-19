@@ -1,0 +1,46 @@
+#navbar{
+    width: 16%; 
+    position: fixed; 
+    float: right;
+    bottom: 0; 
+    top: 0;
+    background-color: cornsilk;
+}
+
+.site-title {
+    margin: 25px;
+    width: 90%;;
+    padding: 7px;
+    font-size: 4vw;
+    background-color: #f7f8f9;
+    text-align: center;
+    box-shadow: 4px 2px 4px #888888;
+}
+
+.content-section {
+    width:90%;
+    margin: 10px;
+    padding:25px;
+    background-color: #f7f8f9;
+
+    box-shadow:2px 2px 4px #888888;
+    align-self:center ;
+    display:flex;
+    flex-direction: column;
+
+}
+.section-heads {
+    text-align: left;
+    font-size: 2vw;
+}
+
+.profile-example-container {
+    padding: 10px;
+    margin:10px;
+}
+
+.under-line {
+    background-color: #f9f6fa;
+
+    box-shadow:1px 1px 3px #888888;
+}
